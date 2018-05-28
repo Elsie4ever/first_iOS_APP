@@ -1,0 +1,12 @@
+c:\users\t-jiju\source\repos\testApp\testApp\bin\iPhone\Debug\testApp.exe
+c:\users\t-jiju\source\repos\testApp\testApp\bin\iPhone\Debug\testApp.pdb
+c:\users\t-jiju\source\repos\testApp\testApp\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+c:\users\t-jiju\source\repos\testApp\testApp\obj\iPhone\Debug\actool\_PartialAppManifest.items
+c:\users\t-jiju\source\repos\testApp\testApp\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+c:\users\t-jiju\source\repos\testApp\testApp\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+c:\users\t-jiju\source\repos\testApp\testApp\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+c:\users\t-jiju\source\repos\testApp\testApp\obj\iPhone\Debug\optimized\Entitlements.plist
+c:\users\t-jiju\source\repos\testApp\testApp\obj\iPhone\Debug\optimized\
+c:\users\t-jiju\source\repos\testApp\testApp\obj\iPhone\Debug\testApp.csproj.CoreCompileInputs.cache
+c:\users\t-jiju\source\repos\testApp\testApp\obj\iPhone\Debug\testApp.exe
+c:\users\t-jiju\source\repos\testApp\testApp\obj\iPhone\Debug\testApp.pdb
