@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{E5AD993B-E6A7-43BC-9390-81B59AFC4FF9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testApp/Main.storyboard">
+    <Files>
+      <File FileName="testApp/Main.storyboard" />
+      <File FileName="testApp/Main.cs" Line="15" Column="2" />
+      <File FileName="testApp/ViewController.cs" Line="48" Column="41" />
+      <File FileName="testApp/CallHistoryController.cs" Line="26" Column="47" />
+      <File FileName="testApp/PhoneTranslator.cs" Line="29" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.testApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D16D0FD3-CA13-4F56-AD8B-43E203EA2576" />
+  <MultiItemStartupConfigurations />
+</Properties>

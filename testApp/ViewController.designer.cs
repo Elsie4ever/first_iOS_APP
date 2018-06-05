@@ -1,4 +1,4 @@
-﻿// WARNING
+// WARNING
 //
 // This file has been generated automatically by Visual Studio from the outlets and
 // actions declared in your storyboard file.
@@ -19,6 +19,10 @@ namespace testApp
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton CallHistoryButton { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UITextField PhoneNumberText { get; set; }
 
         [Outlet]
@@ -29,6 +33,10 @@ namespace testApp
         [GeneratedCode ("iOS Designer", "1.0")]
         partial void CallButton_TouchUpInside (UIKit.UIButton sender);
 
+        [Action ("CallHistoryButton_TouchUpInside:")]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        partial void CallHistoryButton_TouchUpInside (UIKit.UIButton sender);
+
         [Action ("TranslateButton_TouchUpInside:")]
         [GeneratedCode ("iOS Designer", "1.0")]
         partial void TranslateButton_TouchUpInside (UIKit.UIButton sender);
@@ -38,6 +46,11 @@ namespace testApp
             if (CallButton != null) {
                 CallButton.Dispose ();
                 CallButton = null;
+            }
+
+            if (CallHistoryButton != null) {
+                CallHistoryButton.Dispose ();
+                CallHistoryButton = null;
             }
 
             if (PhoneNumberText != null) {
